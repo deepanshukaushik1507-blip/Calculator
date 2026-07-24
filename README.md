@@ -25,4 +25,4 @@ python cal.py
 Deepanshu kaushik
 
 ##Screenshot
-![Calculator Screenshot](image.png)
+![Calculator Screenshot](C:\Users\deepa\Desktop\html_game\image.png)
