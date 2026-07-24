@@ -23,5 +23,7 @@ python cal.py
 **Author**
 
 Deepanshu kaushik
+screenshot
+![calculator](image.png)
 
 
