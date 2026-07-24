@@ -21,9 +21,10 @@ A simple Advanced Calculator built using Python and Tkinter. It performs both ba
 python cal.py
 
 **Author**
-
 Deepanshu kaushik
-screenshot
+
+
+**screenshot**
 ![calculator](image.png)
 
 
